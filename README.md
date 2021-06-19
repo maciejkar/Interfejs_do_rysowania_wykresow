@@ -1,6 +1,6 @@
 # Interfejs_do_rysowania_wykresow
 
-Programowanie - laboratorium
+Programowanie - laboratorium 
 Lista nr 6
 Janusz Szwabiński
 Napisz program, który. . .
